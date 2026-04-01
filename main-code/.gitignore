@@ -1,0 +1,11 @@
+# Project-specific - User Data (DO NOT COMMIT)
+saved_state/
+cache/
+data/
+models/sentence_transformer_model/
+*.faiss
+*.bin
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml

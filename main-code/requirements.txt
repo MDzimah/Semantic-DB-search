@@ -1,0 +1,6 @@
+streamlit
+openpyxl
+sentence-transformers
+rapidfuzz
+pandas
+pyinstaller
