@@ -39,3 +39,6 @@ build/
 dist/
 *.exe
 *.spec
+
+# Others
+Project_scope.txt
