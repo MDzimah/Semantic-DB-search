@@ -40,5 +40,17 @@ dist/
 *.exe
 *.spec
 
+# Project-specific - User Data 
+saved_state/
+cache/
+data/
+models/sentence_transformer_model/
+*.faiss
+*.bin
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
 # Others
 Project_scope.txt
