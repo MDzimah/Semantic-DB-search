@@ -3,4 +3,6 @@ openpyxl
 sentence-transformers
 rapidfuzz
 pandas
+numpy
+faiss-cpu
 pyinstaller
